@@ -1,4 +1,4 @@
-# calculator
+# Calculator App in Flutter Using Widgets
 
 A new Flutter project.
 
